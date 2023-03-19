@@ -1,0 +1,20 @@
+{
+  "tooladdon": {
+    "settings": {
+      "name": "ToolAddon",
+      "header": {
+        "general": {
+          "name": "General"
+        }
+      },
+      "enabled": {
+        "name": "Enable Fastkoordinat"
+      },
+      "copyKoordinat": {
+        "name": "Copy Koordinat"
+      }
+    }
+
+  }
+
+}
